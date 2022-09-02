@@ -29,12 +29,13 @@
 <li><strong>An&aacute;lise Bivariada</strong>: verifica como esta vari&aacute;vel impacta na resposta, seja verificando por correla&ccedil;&atilde;o ou valida&ccedil;&atilde;o de hip&oacute;teses. Seguem alguns exemplos de hip&oacute;teses testadas durante o projeto:</li>
 </ul>
 <h3 data-toc-modified-id="H1-Lojas-com-maior-sortimento-deveriam-vender-mais.-4.2.1"><strong>Hip&oacute;tese 1 -</strong>&nbsp;Lojas com maior sortimento deveriam vender mais</h3>
-<p><strong>FALSA:</strong>&nbsp;Lojas com MAIOR SORTIMENTO vendem MENOS</p>
+<p><strong>FALSA:</strong>&nbsp;Lojas com maior sortimento vendem menos</p>
 <p align="center"><img src="https://github.com/gabrielpastega/rossmann-sales-forecast-project/blob/main/img/h1.png" alt="" /><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h1.png" alt="" width="682" height="335" /></p>
 <h3 data-toc-modified-id="H2-Lojas-com-competidores-mais-pr&oacute;ximos-deveriam-vender-menos.-4.2.2"><strong>Hip&oacute;tese 2 - </strong>Lojas com competidores mais pr&oacute;ximos deveriam vender menos.</h3>
 <p><strong>FALSA:</strong> Lojas que possuem competidores mais pr&oacute;ximos vendem mais.</p>
 <p align="center"><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h2.png" alt="" width="682" height="371" /></p>
 <h3 data-toc-modified-id="H11-Lojas-deveriam-vender-menos-aos-finais-de-semana.-4.2.11"><strong>Hip&oacute;tese 11 -</strong>&nbsp;Lojas deveriam vender menos aos finais de semana.</h3>
+<p>VERDADEIRA Lojas vendem menos nos finais de semana</p>
 <p align="center"><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h11.png" alt="" width="682" height="334" /></p>
 <ul>
 <li><strong>An&aacute;lise Multivariada</strong>: verifica como as vari&aacute;veis se relacionam e analisar&aacute; o impacto da rela&ccedil;&atilde;o entre estas vari&aacute;veis.</li>
