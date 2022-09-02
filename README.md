@@ -4,7 +4,7 @@
 <p>O objetivo &eacute; fornecer uma ferramenta que realize previs&otilde;es pr&oacute;ximas do real para auxiliar na decis&atilde;o de qual ser&aacute; o tamanho da parcela que o CFO determinar&aacute; para reforma de cada loja.</p>
 <h2><strong>Estrutura da Solu&ccedil;&atilde;o</strong></h2>
 <p>A metodologia empregada para a cria&ccedil;&atilde;o do projeto ser&aacute; a CRISP-DS (Cross Industry Standard Process for Data Science) ilustrada abaixo. Consiste em um processo c&iacute;clico de desenvolvimento, cujo foco &eacute; ser constru&iacute;do em fases que permitem a entrega r&aacute;pida de uma solu&ccedil;&atilde;o, al&eacute;m da possibilidade de melhorias e atualiza&ccedil;&otilde;es em seus processos a cada nova itera&ccedil;&atilde;o.</p>
-<p><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/CRISP-DS.png" alt="" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/CRISP-DS.png" alt="" /></p>
 <h2><strong>Quest&atilde;o de Neg&oacute;cio&nbsp;</strong></h2>
 <p>A empresa atualmente n&atilde;o possui uma ferramenta de previs&atilde;o de vendas para cada loja, conforme citado anteriormente. O projeto consiste em fornecer uma solu&ccedil;&atilde;o para realizar esta previs&atilde;o de uma forma f&aacute;cil e r&aacute;pida.</p>
 <h2><strong>Entendimento do Neg&oacute;cio</strong></h2>
