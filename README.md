@@ -30,12 +30,12 @@
 </ul>
 <h3 data-toc-modified-id="H1-Lojas-com-maior-sortimento-deveriam-vender-mais.-4.2.1"><strong>Hip&oacute;tese 1 -</strong>&nbsp;Lojas com maior sortimento deveriam vender mais</h3>
 <p><strong>FALSA:</strong>&nbsp;Lojas com MAIOR SORTIMENTO vendem MENOS</p>
-<p><img src="https://github.com/gabrielpastega/rossmann-sales-forecast-project/blob/main/img/h1.png" alt="" /><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h1.png" alt="" width="682" height="335" /></p>
+<p align="center"><img src="https://github.com/gabrielpastega/rossmann-sales-forecast-project/blob/main/img/h1.png" alt="" /><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h1.png" alt="" width="682" height="335" /></p>
 <h3 data-toc-modified-id="H2-Lojas-com-competidores-mais-pr&oacute;ximos-deveriam-vender-menos.-4.2.2"><strong>Hip&oacute;tese 2 - </strong>Lojas com competidores mais pr&oacute;ximos deveriam vender menos.</h3>
 <p><strong>FALSA:</strong> Lojas que possuem competidores mais pr&oacute;ximos vendem mais.</p>
-<p><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h2.png" alt="" width="682" height="371" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h2.png" alt="" width="682" height="371" /></p>
 <h3 data-toc-modified-id="H11-Lojas-deveriam-vender-menos-aos-finais-de-semana.-4.2.11"><strong>Hip&oacute;tese 11 -</strong>&nbsp;Lojas deveriam vender menos aos finais de semana.</h3>
-<p><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h11.png" alt="" width="682" height="334" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/h11.png" alt="" width="682" height="334" /></p>
 <ul>
 <li><strong>An&aacute;lise Multivariada</strong>: verifica como as vari&aacute;veis se relacionam e analisar&aacute; o impacto da rela&ccedil;&atilde;o entre estas vari&aacute;veis.</li>
 </ul>
@@ -195,6 +195,6 @@
 <h2><strong>Modelo em Produ&ccedil;&atilde;o</strong></h2>
 <p>Verificados os resultados e desempenho do algoritmo gerado nesta primeira vers&atilde;o do ciclo do CRISP-DS, decidiu-se implementar o projeto. Mesmo sendo a primeira vers&atilde;o &eacute; importante para atestar sua usabilidade, precis&atilde;o al&eacute;m de feedback para corre&ccedil;&otilde;es e melhorias.&nbsp;</p>
 <p>Para a visualiza&ccedil;&atilde;o r&aacute;pida e &aacute;gil do projeto, optou-se pela solu&ccedil;&atilde;o de criar um bot que informa as previs&otilde;es de vendas para cada lojas atrav&eacute;s do aplicativo Telegram, conforme imagem abaixo:</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/telegram_rossmann_bot.gif" alt="" width="288" height="640" /></p>
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/gabrielpastega/rossmann-sales-forecast-project/main/img/telegram_rossmann_bot.gif" alt="" width="288" height="640" /></p>
 <p>Este processo utilizou uma plataforma cloud chamada Heroku gratuitamente para hospedar nosso algoritmo e aplicativo que usa a API (Application Programming Interface) do Telegram.</p>
 <p>Caso necessite de mais informa&ccedil;&otilde;es ou d&uacute;vidas fico a disposi&ccedil;&atilde;o, al&eacute;m de disponibilizar todos os documentos utilizado para gerar este projeto.</p>
