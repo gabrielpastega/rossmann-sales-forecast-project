@@ -1,6 +1,5 @@
 <h1><strong>Rossmann Stores Sales Forecast</strong></h1>
-<h1><strong>Previs&atilde;o de Vendas das Lojas Rossmann</strong></h1>
-<p>(INSERIR TITULO EM IMAGEM)</p>
+
 <h2><strong>Problema de Neg&oacute;cio</strong></h2>
 <p>O CFO (Chief Financial Officer) da Rossmann precisa determinar qual parcela do faturamento de cada unidade sera destinado a sua reforma. Desta forma, durante uma reuni&atilde;o mensal de resultados, solicitou a cada gerente de loja, que fosse realizada uma previs&atilde;o di&aacute;ria do faturamento de vendas das pr&oacute;ximas 6 semanas.</p>
 <p>O objetivo &eacute; fornecer uma ferramenta que realize previs&otilde;es pr&oacute;ximas do real para auxiliar na decis&atilde;o de qual ser&aacute; o tamanho da parcela que o CFO determinar&aacute; para reforma de cada loja.</p>
